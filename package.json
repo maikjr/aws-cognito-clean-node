@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/maikjr/aws-cognito-clean-node.git",
   "author": "Maik Junior <maik.designer101@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "typescript": "^4.6.4"
+  }
 }
