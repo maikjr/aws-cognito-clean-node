@@ -1,0 +1,8 @@
+{
+  "name": "aws-cognito-clean-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maikjr/aws-cognito-clean-node.git",
+  "author": "Maik Junior <maik.designer101@gmail.com>",
+  "license": "MIT"
+}
