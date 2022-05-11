@@ -5,6 +5,9 @@
   "repository": "https://github.com/maikjr/aws-cognito-clean-node.git",
   "author": "Maik Junior <maik.designer101@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "yarn jest --watchAll"
+  },
   "devDependencies": {
     "@types/jest": "^27.5.0",
     "@types/node": "^17.0.31",
